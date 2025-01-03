@@ -75,7 +75,7 @@ Ao final dos 100 dias, pretendo ter um portfólio de projetos em Python que demo
 ---
 
 ## 🏆 Progresso
-Confira meu progresso diário nos [commits deste repositório](https://github.com/seuusuario/100-dias-python).
+Confira meu progresso diário nos [commits deste repositório](https://github.com/evedornelles/100daysofpython).
 
 ---
 
