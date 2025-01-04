@@ -88,8 +88,26 @@ print(exp_2)
 
 #Operadores de identidade
 
-saldo = 1000
-limite = 1000
+#saldo = 1000
+#limite = 1000
 
-print(saldo is limite)
-print (saldo is not limite)
+#print(saldo is limite)
+#print (saldo is not limite)
+
+#Operadores de associação
+
+#curso = "Curso de Python"
+#frutas = ["laranja", "uva", "limão"]
+#saques = [1500,100]
+
+#"Phyton" in curso
+#>>> True
+
+#"maçã" not in frutas>>> True
+
+frutas = ["limão", "uva"]
+
+print("laranja" in frutas)
+print("limão"  not in frutas)
+
+
