@@ -26,3 +26,37 @@ print(saldo >= saque)
 print(saldo < saque)
 print(saldo <= saque)
 
+# Operadores de atribuição
+
+saldo = 20
+print(saldo)
+
+saldo = 2
+print(saldo)
+
+saldo += 10
+print(saldo)
+
+saldo -= 5
+print(saldo)
+
+saldo /= 10
+print(saldo)
+
+saldo // 5
+print(saldo)
+
+saldo //= 5
+print(saldo)
+
+saldo ** 2
+print(saldo)
+
+saldo %= 3
+print(saldo)
+
+saldo *= 3
+print(saldo)
+
+
+
