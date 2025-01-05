@@ -88,11 +88,11 @@ print(exp_2)
 
 #Operadores de identidade
 
-#saldo = 1000
-#limite = 1000
+saldo = 1000
+limite = 1000
 
-#print(saldo is limite)
-#print (saldo is not limite)
+print(saldo is limite)
+print (saldo is not limite)
 
 #Operadores de associação
 
