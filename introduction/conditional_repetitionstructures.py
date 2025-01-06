@@ -63,5 +63,16 @@ saque = 500
 
 status = "Sucesso" if saldo >= saque else "Falha"
 
-print(f"{Status} ao realizar o saque!")
+print(f"{status} ao realizar o saque!")
 
+#Estruturas de repetição
+
+#for
+
+texto = input("Informe um texto: ")
+VOGAIS = "AEIOU"
+
+for letra in texto:
+    if letra.upper() in VOGAIS:
+        print(letra, end="")
+print()
