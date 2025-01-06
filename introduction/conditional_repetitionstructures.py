@@ -55,3 +55,13 @@ elif conta_universitaria:
     else:
         print("Saldo insuficiente")
 
+
+#Estrutura condicional ternária
+
+saldo = 2000
+saque = 500
+
+status = "Sucesso" if saldo >= saque else "Falha"
+
+print(f"{Status} ao realizar o saque!")
+
