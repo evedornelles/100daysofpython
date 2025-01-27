@@ -59,5 +59,5 @@ class Pessoa:
         return _ano_atual - self._ano_nascimento
 
 
-pessoa = Pessoa("Guilherme", 1994)
+pessoa = Pessoa("Carme", 1994)
 print(f"Nome: {pessoa.nome} \tIdade: {pessoa.idade}")
