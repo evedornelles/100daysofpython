@@ -13,5 +13,5 @@ def executar(funcao, nome):
     return funcao(nome)
 
 
-print(executar(mensagem, "Mariaaa"))
-print(executar(mensagem_longa, "Mariaaa"))giy add 
+print(executar(mensagem, "Maria"))
+print(executar(mensagem_longa, "Maria"))giy add 
