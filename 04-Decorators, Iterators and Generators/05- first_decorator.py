@@ -8,7 +8,7 @@ def meu_decorador(funcao):
 
 
 def ola_mundo():
-    print("Olá mundo!")
+    print("Olá mundoo!")
 
 
 ola_mundo = meu_decorador(ola_mundo)
