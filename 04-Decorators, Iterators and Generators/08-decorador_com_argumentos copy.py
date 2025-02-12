@@ -14,6 +14,6 @@ def ola_mundo(nome, outro_argumento):
     return nome.upper()
 
 
-resultado = ola_mundo("José", 1000)
+resultado = ola_mundo("João", 1000)
 print(resultado)
 print(ola_mundo)
