@@ -16,4 +16,4 @@ class MeuIterador:
 
 
 for i in MeuIterador(numeros=[38, 13, 11]):
- 
+    print(i)
