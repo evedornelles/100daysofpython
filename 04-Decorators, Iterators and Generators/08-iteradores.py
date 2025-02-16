@@ -14,3 +14,6 @@ class MeuIterador:
         except IndexError:
             raise StopIteration
 
+
+for i in MeuIterador(numeros=[38, 13, 11]):
+    print(i)
